@@ -55,4 +55,4 @@ To support listing XRP, code integrations with the XRP Ledger to deposit XRP int
 - [Listen for New Ledger Versions](subscription-methods.html)
 - [Capacity Planning](capacity-planning.html)
 - [Look Up an XRP Ledger Account’s Transaction History](tx_history.html)
-<!-- for the future, link to Implement Destination Tags -->
+<!-- for the future, link to Implement Destination Tags --->
